@@ -103,8 +103,8 @@ C:\Users\Daniel\Desktop\test>
 
 If you are a Javascript fan, a functional programming afficiando, a
 lover of recursive functions, and annoyed that Javascript doesn't do tail-call
-recursion (or don't know what that means) and don't mind a (fairly significant)
-performance penalty (or using up a lot of memory on the heap),
+optimization (or don't know what that means) and don't mind a (fairly significant)
+performance penalty, or using up a lot of memory on the heap,
 consider using `async`/`await`!
 
 -----------------
