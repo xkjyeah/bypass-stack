@@ -1,5 +1,8 @@
 # Bypassing Node's call stack limit with `async`/`await`
 
+TL;DR With `async`/`await`, you can unroll your recursive functions onto the
+Javascript event loop!
+
 The following piece of code will die a terrible death:
 
 ```js
